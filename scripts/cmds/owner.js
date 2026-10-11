@@ -27,8 +27,8 @@ module.exports = {
 │ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : 𝕃𝕒𝕤𝕥 𝕘𝕣𝕒𝕕𝕖
 │ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝕊𝕠𝕦𝕥𝕙 𝕒𝕗𝕣𝕚𝕔𝕒
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : 
-│ 💬 Messenger: ɪᴅ:
+│ 📘 Facebook  : https://www.facebook.com/profile.php?id=100068914723350
+│ 💬 Messenger: ɪᴅ:100068914723350
 │ 📞 WhatsApp  : +27 769124957
 ╰────────────────╯`;
 
